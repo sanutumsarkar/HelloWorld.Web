@@ -1,7 +1,7 @@
 // Your First Program
 
-class HelloCloud {
+class HelloCloudWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, Cloud!"); 
+        System.out.println("Hello, CloudWorld!"); 
     }
 }
